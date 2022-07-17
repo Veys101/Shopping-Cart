@@ -40,7 +40,9 @@
             color: gray;
         }
 
-        button.view-product-button {
+    }
+
+    button.view-product-button {
             padding: 10px;
             background-color: rgb(79, 160, 187);
             border: none;
@@ -50,7 +52,6 @@
             border-radius: 5px;
             cursor: pointer;
         }
-    }
 
     @media(min-width: 500px) {
         .card {
